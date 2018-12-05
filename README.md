@@ -69,6 +69,10 @@ Don’t just store wishlists. Use them to generate insights about your customers
 - [Product Labels for Magento 2](https://marketplace.magento.com/amasty-label.html)
 - [Mass Order Actions for Magento 2](https://marketplace.magento.com/amasty-oaction.html)
 
+* [Magento 2 Google Map](https://github.com/AmastyLtd/google-map-for-magento-2)
+* [Magento 2 Facebook Comments](https://github.com/AmastyLtd/facebook-comments-for-magento-2)
+* [Magento 2 Promotions Manager](https://github.com/AmastyLtd/promotions-manager-for-magento-2)
+
 - [Blog Pro for Magento 2](https://amasty.com/blog-pro-for-magento-2.html?utm_source=github&utm_medium=link&utm_campaign=listings)
 - [Customer Attributes for Magento 2](https://amasty.com/customer-attributes-for-magento-2.html?utm_source=github&utm_medium=link&utm_campaign=listings)
 - [Mass Order Actions for Magento 2](https://amasty.com/mass-order-actions-for-magento-2.html?utm_source=github&utm_medium=link&utm_campaign=listings)
